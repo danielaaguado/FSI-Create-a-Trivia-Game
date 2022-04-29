@@ -17,7 +17,7 @@ let questions = [
     },
     {
       text: `What is the French word for 'hat'?
-        A.  Casque
+        A. Casque
         B. Chapeau
         C. Bonnet
         D. Écharpe`,
